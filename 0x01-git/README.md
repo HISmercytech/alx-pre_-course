@@ -1,1 +1,1 @@
-My third readme file. I am geeting to learn navigation in shell and git
+My third readme file. I am getting to learn navigation in shell and git
